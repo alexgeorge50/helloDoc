@@ -1,0 +1,37 @@
+body
+{
+	background-image:url(../images/index.png);
+	background-size:cover;
+}
+.div-with-img{
+	background:#25b7d3;
+}
+ .navbar {
+    border-radius: 0em;
+}
+#footer{
+
+}
+#footer p{
+    margin-bottom: 0px;
+    padding:10px 0px;
+}
+.submit_btns{
+    width:50%;
+}
+.member_frm{
+    min-height:300px;
+}
+.doc_table{
+    width:100%;
+    border-collapse: collapse;
+}
+.doc_table p{
+    padding:1px 2px;
+}
+.doc_table tr{
+    border: 0.5px solid grey;
+}
+.doc_table td , .doc_table th{
+    border: 0.5px solid grey;
+}
